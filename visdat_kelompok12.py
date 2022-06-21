@@ -1,3 +1,8 @@
+# Cika Carissa Sujadi (1301194148)
+# Annisa Arafah Nasution (1301193438)
+# Joshua Chrisdianto (1301154107)
+
+
 import pandas as pd
 from bokeh.plotting import figure
 from bokeh.plotting import show
